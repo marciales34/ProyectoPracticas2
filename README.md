@@ -53,7 +53,7 @@ Por lo tanto, el proyecto se encuentra en un **90% de avance funcional**, con to
 
 **Diego Andres Marciales Florez**  
 Ingeniería de Software · Proyecto de Prácticas 2
-Fundacion Universitaria Compensar.  
+- Fundacion Universitaria Compensar.  
 📍 Colombia · 2025
 
 ---
